@@ -1,4 +1,4 @@
-cat > .github/workflows/pytest.yml <<'YML'
+cat > .github/workflows/test.yml <<'YML'
 name: Run Pytest with Report
 
 on:
